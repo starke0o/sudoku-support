@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Support - EN
+title: Support
 permalink: /en/support/
 ---
 
